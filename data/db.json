@@ -1,0 +1,24 @@
+{
+  "mydata": [
+    {
+      "price": 2,
+      "title": "food",
+      "id": 1
+    },
+    {
+      "price": 3,
+      "title": "drink",
+      "id": 2
+    },
+    {
+      "price": 20,
+      "title": "water",
+      "id": 3
+    },
+    {
+      "price": 22,
+      "title": "qqqq",
+      "id": 4
+    }
+  ]
+}
